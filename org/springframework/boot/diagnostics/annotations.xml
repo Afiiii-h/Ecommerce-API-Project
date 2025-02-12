@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter logger'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
